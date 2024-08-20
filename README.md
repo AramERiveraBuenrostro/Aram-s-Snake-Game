@@ -1,0 +1,1 @@
+In this school project I experimented with the turtle, time and random libraries to develop the popular snake game using functions and tools from the libraries.
